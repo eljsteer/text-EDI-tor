@@ -29,7 +29,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'Text Editor',
-        short_name: 'Contact',
+        short_name: 'text-EDI-tor',
         description: 'Never forget your contacts!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
