@@ -5,8 +5,11 @@ const header = `
   __  / / /| | / / / __/   
  / /_/ / ___ |/ / / /___   
 /_____/_/  |_/_/ /_____/   
-just another text editor
-*/                          
+Jason's Awesome text-EDI-tor
+*/         
+
+Welcome to J.A.T.E
+Enjoy the best in Text Editing 
 `;
 
 export { header };
