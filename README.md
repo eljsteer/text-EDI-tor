@@ -31,7 +31,7 @@
   ![J.A.T.E - Website](./client/src/images/jate_website.jpg)
   <br />
   #### J.A.T.E as PWA
-  ![J.A.T.E - PWA](./client/src/images/jate_website.jpg)
+  ![J.A.T.E - PWA](./client/src/images/jate_PWA.jpg)
 
   ## Tests
   * To test the routes, [Download and install Insomnia](https://insomnia.rest/download)
