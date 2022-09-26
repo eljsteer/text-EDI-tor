@@ -4,8 +4,10 @@
 
   ## TABLE OF CONTENTS
   - [Description](#description)
+  - [Depolyed Link](#deployed-link)
   - [Installation](#Installation)
   - [Usage](#Usage)
+  - [Media](#Media)
   - [Tests](#Tests)
   - [License](#License)
   - [Credits](#Credits)
@@ -14,7 +16,7 @@
   ## DESCRIPTION
   This Progressive Web application is the best Text editing tool you'll use. As a PWA you're able to download and install the web app and run it offline for when you don't have access to the internet and all data will still be saved until you come back online.
 
-  ## APPLICATION DEPLOYED LINK
+  ## DEPLOYED LINK
   [J.A.T.E Deployed](https://text-edi-tor.herokuapp.com/)
   
   ## INSTALLATION
