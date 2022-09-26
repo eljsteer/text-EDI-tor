@@ -14,7 +14,7 @@
   ## DESCRIPTION
   This Progressive Web application is the best Text editing tool you'll use. As a PWA you're able to download and install the web app and run it offline for when you don't have access to the internet and all data will still be saved until you come back online.
 
-  ## Application Deployed Link
+  ## APPLICATION DEPLOYED LINK
   [J.A.T.E Deployed](https://text-edi-tor.herokuapp.com/)
   
   ## INSTALLATION
@@ -23,6 +23,11 @@
 
   ## USAGE
   * To run this node application, type `npm run dev` for running the application with nodemon for dev usage, or type `npm run start` to run normally to start the server.
+
+  ## MEDIA
+  ![J.A.T.E - Website](./client/src/images/jate_website.jpg)
+  <br />
+  ![J.A.T.E - PWA](./client/src/images/jate_website.jpg)
 
   ## Tests
   * To test the routes, [Download and install Insomnia](https://insomnia.rest/download)
