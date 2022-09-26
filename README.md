@@ -25,8 +25,10 @@
   * To run this node application, type `npm run dev` for running the application with nodemon for dev usage, or type `npm run start` to run normally to start the server.
 
   ## MEDIA
+  #### J.A.T.E in Browser
   ![J.A.T.E - Website](./client/src/images/jate_website.jpg)
   <br />
+  #### J.A.T.E as PWA
   ![J.A.T.E - PWA](./client/src/images/jate_website.jpg)
 
   ## Tests
