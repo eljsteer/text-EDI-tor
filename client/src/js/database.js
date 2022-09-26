@@ -39,15 +39,15 @@ export const getDb = async () => {
   const connectDb = await openDB('jate', 1);
   const tx = connectDb.transaction('jate', 'readonly');
   const store = tx.objectStore('jate');
-  // Use the .getAll method to get all data in the database.
-  const request = store.get(1);
+
+  const request = store.getAll();
 
   const result = await request;
 
   result ? console.log('data received from the database', result.value) :
     console.error('getDb not implemented');
 
-  return result.value;
+  return result?.value;
 };
 
 initdb();
